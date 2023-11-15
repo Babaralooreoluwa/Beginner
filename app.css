@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    width: 50%;
+    font-weight: normal;
+    text-decoration: underline red;
+    letter-spacing: 5px;
+    font-size: 100px;
+    font-family: Avant Garde, Sans-serif;
+}
+a{
+    text-decoration:none;
+}
+p{
+    line-height: 2;
+}
